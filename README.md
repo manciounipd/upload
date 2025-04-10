@@ -1,3 +1,4 @@
+# How to generate a Key
 🚀 Upload Folder to GitHub Using SSH (Simple Guide)
 ✅ 1. Create SSH key (if not already done):
 
